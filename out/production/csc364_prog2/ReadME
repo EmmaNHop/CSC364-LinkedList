@@ -1,0 +1,5 @@
+This program struggles with deleting rear and deleting position
+    (in these instances it will select the correct position but not completely
+    remove from the list and continue to select the same number for future deletes)
+occasionally has bugs with insert position
+    (occasionally just inserts wrong)
